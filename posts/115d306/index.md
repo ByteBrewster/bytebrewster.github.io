@@ -6,5 +6,5 @@
 ---
 
 > 作者: ByteBrewster  
-> URL: http://localhost:1313/zh-cn/posts/115d306/  
+> URL: http://localhost:1313/posts/115d306/  
 
