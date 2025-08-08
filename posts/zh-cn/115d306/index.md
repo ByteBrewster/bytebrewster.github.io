@@ -6,5 +6,5 @@
 ---
 
 > 作者: ByteBrewster  
-> URL: http://localhost:1313/posts/zh-cn/115d306/  
+> URL: https://bytebrewster.github.io/posts/zh-cn/115d306/  
 

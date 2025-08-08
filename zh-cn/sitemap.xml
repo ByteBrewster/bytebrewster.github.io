@@ -1,54 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/408/</loc>
+    <loc>https://bytebrewster.github.io/posts/</loc>
+    <lastmod>2025-08-07T07:57:01+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bytebrewster.github.io/</loc>
+    <lastmod>2025-08-07T07:57:01+08:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bytebrewster.github.io/en/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://bytebrewster.github.io/"/>
+  </url>
+  <url>
+    <loc>https://bytebrewster.github.io/categories/</loc>
+    <lastmod>2025-08-03T20:19:39+08:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bytebrewster.github.io/en/categories/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://bytebrewster.github.io/categories/"/>
+  </url>
+  <url>
+    <loc>https://bytebrewster.github.io/tags/</loc>
+    <lastmod>2025-08-03T20:19:39+08:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bytebrewster.github.io/en/tags/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://bytebrewster.github.io/tags/"/>
+  </url>
+  <url>
+    <loc>https://bytebrewster.github.io/categories/%E9%A5%A5%E8%8D%92/</loc>
+    <lastmod>2025-08-03T20:19:39+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bytebrewster.github.io/tags/%E9%A5%A5%E8%8D%92/</loc>
+    <lastmod>2025-08-03T20:19:39+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bytebrewster.github.io/posts/zh-cn/a7cbffc/</loc>
+    <lastmod>2025-08-03T20:19:39+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bytebrewster.github.io/categories/408/</loc>
     <lastmod>2025-07-25T19:53:42+08:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/408/</loc>
+    <loc>https://bytebrewster.github.io/tags/408/</loc>
     <lastmod>2025-07-25T19:53:42+08:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-07-25T19:53:42+08:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/en/categories/"/>
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="http://localhost:1313/categories/"/>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://bytebrewster.github.io/posts/zh-cn/115d306/</loc>
     <lastmod>2025-07-25T19:53:42+08:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-07-25T19:53:42+08:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/en/tags/"/>
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="http://localhost:1313/tags/"/>
-  </url>
-  <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-07-25T19:53:42+08:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/en/"/>
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="http://localhost:1313/"/>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/zh-cn/115d306/</loc>
-    <lastmod>2025-07-25T19:53:42+08:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/categories/draft/</loc>
+    <loc>https://bytebrewster.github.io/categories/draft/</loc>
     <lastmod>2025-07-22T20:05:55+08:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/draft/</loc>
+    <loc>https://bytebrewster.github.io/tags/draft/</loc>
     <lastmod>2025-07-22T20:05:55+08:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/zh-cn/583bc6c/</loc>
+    <loc>https://bytebrewster.github.io/posts/zh-cn/583bc6c/</loc>
     <lastmod>2025-07-22T20:05:55+08:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/collections/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/en/collections/"/>
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="http://localhost:1313/collections/"/>
+    <loc>https://bytebrewster.github.io/collections/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bytebrewster.github.io/en/collections/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://bytebrewster.github.io/collections/"/>
   </url>
 </urlset>

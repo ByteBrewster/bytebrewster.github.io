@@ -113,5 +113,5 @@ events:
 ---
 
 > 作者: ByteBrewster  
-> URL: http://localhost:1313/posts/zh-cn/583bc6c/  
+> URL: https://bytebrewster.github.io/posts/zh-cn/583bc6c/  
 
